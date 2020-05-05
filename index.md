@@ -317,10 +317,6 @@ please preview your site before committing, and make sure to run
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
 
-{% if site.carpentry == "swc" %}
-{% include swc/setup.html %}
-{% elsif site.carpentry == "dc" %}
-{% include dc/setup.html %}
-{% elsif site.carpentry == "lc" %}
-{% include lc/setup.html %}
-{% endif %}
+<p>
+The setup instructions for the Data Carpentry Social Sciences workshops (with R) can be found <a href = "https://edcarp.github.io/2020-05-13-sfc-online/setup-r-workshop"> here</a>
+</p>
