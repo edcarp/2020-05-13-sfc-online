@@ -93,6 +93,7 @@ your operating system, and then follow the instructions to install
 > whether a more recent version is available. If so, please download and install
 > it. You can [check here](https://cran.r-project.org/bin/windows/base/rw-FAQ.html#How-do-I-UNinstall-R_003f) for
 > more information on how to remove old versions from your system if you wish to do so.
+> * Open RStudio,
 {: .solution}
 
 > ## If you don't have R and RStudio installed
@@ -154,11 +155,14 @@ your operating system, and then follow the instructions to install
    rstudio-x.yy.zzz-amd64.deb` at the terminal).
 * Once it's installed, open RStudio to make sure it works and you don't get any
    error messages.
-
+   
+#### Installing Tidyverse and RSQLite
 * After installing R and RStudio, you need to install the `tidyverse` and
 `RSQLite` packages. Start RStudio by double-clicking the icon and then type:
   `install.packages(c("tidyverse", "RSQLite"))`. You can also do this by going to Tools -> Install Packages and
   typing the names of the packages you want to install, separated by a comma.
-
+  
+#### Using R Studio from Cloud 
+* If you had any issue while installing the softwares or you do not wish to install a new software on your PC you can use RStudio from the cloud. More information on how to do so <a href = "https://rstudio.cloud/"> here</a>.
 
 Congratulations! You are now ready for the workshop!
