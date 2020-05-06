@@ -23,7 +23,6 @@ Clicking the download link will automatically download all of the files to your 
 application).
 
 For a full description of the data used in this workshop see the [data page](data).
-}
 
 
 ## Software
@@ -39,7 +38,7 @@ For a full description of the data used in this workshop see the [data page](dat
 
 ### Spreadsheet program
 
-* To interact with spreadsheets, we can use LibreOffice, Microsoft Excel, Gnumeric, OpenOffice.org, or other programs.
+* To interact with spreadsheets, we can use Microsoft Excel, LibreOffice, Gnumeric, OpenOffice.org, or other programs.
 Commands may differ a bit between programs, but the general ideas for thinking about spreadsheets are the same. For this workshop,
 we recommend using either Microsoft Excel (paid software) or LibreOffice (free and open source). Other spreadsheet programs may
 not have all of the features we will be exploring in this workshop.
